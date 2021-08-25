@@ -18,3 +18,7 @@ Sobre o projeto:
 https://saudenaotempreco.com.br/bradesco-saude
 
 - Se o site por algum motivo for modificado por outro desenvolvedor ou sair do ar, segue na listagem dos arquivos desse repositório a imagem da index do site original.
+
+# Video demonstrativo do projeto:
+
+https://youtu.be/-XXu7NlAHbU
